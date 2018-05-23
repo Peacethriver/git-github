@@ -1,1 +1,3 @@
-It's getting interesting knowing how to make use of git and github. Introduced Mario and Luigi is some .txt files
+It's getting interesting knowing how to make use of git and github. Introduced Mario and Luigi is some .txt files.
+
+I brought in a stranger. Alarm!
