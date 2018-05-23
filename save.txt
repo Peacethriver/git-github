@@ -1,0 +1,1 @@
+It's getting interesting knowing how to make use of git and github
